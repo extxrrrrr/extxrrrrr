@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @extxrrrrr
-- 👀 I’m interested in SofWare Developers
+- 👀 I’m interested in SofeWare Developers
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACTJS, ....
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me EMAIL
